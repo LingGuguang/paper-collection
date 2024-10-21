@@ -11,14 +11,15 @@
 
 ## RAG
 1. **Speculative RAG: Enhancing Retrieval Augmented Generation through Drafting**
-   \n通过多个drafter‘赌’的方式解决知识密集型rag问答里chunk过多引发的一系列问题。
+  通过多个drafter‘赌’的方式解决知识密集型rag问答里chunk过多引发的一系列问题。
    [paper](https://arxiv.org/abs/2407.08223)
    
 2. **MEMORAG: MOVING TOWARDS NEXT-GEN RAG VIA MEMORY-INSPIRED KNOWLEDGE DISCOVERY**
-   \n通过memory model把长文本压缩，以求解决涉及全文的模糊问题，可以说是GraphRAG目标的便宜实现。落地实不实用就是另外的话题了。
+  通过memory model把长文本压缩，以求解决涉及全文的模糊问题，可以说是GraphRAG目标的便宜实现。落地实不实用就是另外的话题了。
   [paper](https://arxiv.org/pdf/2409.05591)
-3. **LightRAG: Simple and Fast Retrieval-Augmented Generation**
-   GraphRAG更快速、便宜的改良，效果更好。
+
+4. **LightRAG: Simple and Fast Retrieval-Augmented Generation**
+  GraphRAG更快速、便宜的改良，效果更好。
    [paper](https://arxiv.org/abs/2410.05779)
 
    
