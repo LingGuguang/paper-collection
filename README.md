@@ -2,8 +2,11 @@
 分门别类地收集一些读过的论文，并附上不靠谱的简单review。
 
 ## 角色扮演 
-1. **From Persona to Personalization: A Survey on Role-Playing Language Agents (2024/10 角色扮演综述)**  
+1. **From Persona to Personalization: A Survey on Role-Playing Language Agents**  
 [paper](https://arxiv.org/pdf/2404.18231)
+2. **Two Tales of Persona in LLMs: A Survey of Role-Playing and Personalization**
+   [paper](https://arxiv.org/abs/2406.01171)
+
 
 ## game agent
 1. **A Survey on Large Language Model-Based Game Agents（2024综述）**  
