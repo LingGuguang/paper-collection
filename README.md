@@ -24,11 +24,21 @@
 
    
 ## dpo相关
-1. **dpo**
+1. **dpo**  
+  经典。
+   [paper](Direct Preference Optimization: Your Language Model is Secretly a Reward Model)
 
-2. **Step-DPO: Step-wise Preference Optimization for Long-chain Reasoning of LLMs**
-   希望稳定长句dpo训练的稳定性，说白了，一句切成多句。
+2. **Step-DPO: Step-wise Preference Optimization for Long-chain Reasoning of LLMs**  
+   希望稳定长句dpo训练的稳定性，说白了，一句切成多句。  
    [paper](https://arxiv.org/abs/2406.18629)
+
+3. **IPO:A General Theoretical Paradigm to Understand Learning from Human Preferences**  
+   先找到ΨPO，dpo是它的特例，然后找到另一个特例，就是IPO。  
+   [paper](https://arxiv.org/pdf/2310.12036v2.pdf)
+
+4. **A note on DPO with noisy preferences & relationship to IPO**  
+   文章通过一个label-smoothing版本的dpo(conservative DPO, cDPO)，解释了dpo和ipo的关系.  
+   [paper](https://ericmitchell.ai/cdpo.pdf)
 
 
 
