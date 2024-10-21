@@ -25,8 +25,8 @@
    
 ## dpo相关
 1. **dpo**  
-  经典。
-   [paper](Direct Preference Optimization: Your Language Model is Secretly a Reward Model)
+  经典。  
+   [paper](https://arxiv.org/abs/2305.18290)
 
 2. **Step-DPO: Step-wise Preference Optimization for Long-chain Reasoning of LLMs**  
    希望稳定长句dpo训练的稳定性，说白了，一句切成多句。  
