@@ -25,6 +25,10 @@
   GraphRAG更快速、便宜的改良，效果更好。  
    [paper](https://arxiv.org/abs/2410.05779)
 
+5. **HybridRAG: Integrating Knowledge Graphs and Vector Retrieval Augmented Generation for Efficient Information Extraction**
+   合并GraphRAG和VectorRAG的方法。  
+   [paper](https://arxiv.org/abs/2408.04948) [解析](https://www.53ai.com/news/RAG/2024081509752.html)
+
    
 ## dpo相关
 1. **dpo**  
