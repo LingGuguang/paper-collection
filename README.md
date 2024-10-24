@@ -26,7 +26,7 @@
    [paper](https://arxiv.org/abs/2410.05779)
 
 5. **HybridRAG: Integrating Knowledge Graphs and Vector Retrieval Augmented Generation for Efficient Information Extraction**
-   合并GraphRAG和VectorRAG的方法。  
+   合并GraphRAG和VectorRAG的方法，看样子是单纯地测试拼接向量检索和图检索的结果。chunk精确度肯定下降了，但是忠诚度、答案相关性、chunk召回率都稳定在两种方法的最优上了。
    [paper](https://arxiv.org/abs/2408.04948) [解析](https://www.53ai.com/news/RAG/2024081509752.html)
 
    
